@@ -1,0 +1,11 @@
+4
+i maca
+i banana
+i uva
+d 6
+limao
+laranja
+mamao
+uva
+abacaxi
+abacate
